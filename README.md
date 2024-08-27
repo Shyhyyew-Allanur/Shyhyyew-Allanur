@@ -1,0 +1,5 @@
+- 👋 Hi, my name is Allanur and surname Shyhyyew, nice to meet you
+- 👀 I’m interested in Web-Developing and Application Programming For Windows
+- 🌱 I'm currently a frontend developer and do a bit of backend development.
+- 📫 My phone number : +993 61 450245 ;  eMail : shyhyyewallanur@gmail.com ; Instagram : @allanur___07 ;
+- 😄 About me : I was born in 2007 in Turkmenistan. My nationality is Turkmen, male. I love programming because it is so interesting to make incredible things out of codes.
