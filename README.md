@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Allanur Shyhyyev/h1>
+<h1 align="center">Hi 👋, I'm Allanur Shyhyyev</h1>
 <h3 align="center">A passionate frontend developer from Turkmenistan</h3>
 
 - 🔭 I’m currently working on **HTML, CSS, REACTJS, NODEJS, TAILWIND**
