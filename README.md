@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kuvvat Gullekov</h1>
+<h1 align="center">Hi 👋, I'm Allanur Shyhyyev/h1>
 <h3 align="center">A passionate frontend developer from Turkmenistan</h3>
 
 - 🔭 I’m currently working on **HTML, CSS, REACTJS, NODEJS, TAILWIND**
 
 - 🌱 I’m currently learning **Typescript** <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
-- 📫 How to reach me **kuveyt94.94@gmail.com**
+- 📫 How to reach me **shyhyyewallanur@gmail.com**
 
 - ⚡ Fun fact **Midnight programmer**
 <p align="left">
